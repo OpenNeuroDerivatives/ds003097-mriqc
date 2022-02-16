@@ -8,3 +8,8 @@
 	url = /scratch1/03201/jbwexler/openneuro_derivatives/raw/ds003097
 	datalad-id = aefe5438-e93b-11ea-ad4c-8e2245da6db7
 	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/raw/ds003097
+[submodule "sourcedata/templateflow"]
+	path = sourcedata/templateflow
+	url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow
+	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
+	datalad-url = /scratch1/03201/jbwexler/openneuro_derivatives/templateflow
