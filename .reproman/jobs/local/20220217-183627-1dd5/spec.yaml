@@ -1,1 +1,865 @@
-../../../../.git/annex/objects/XG/1p/MD5E-s45045--ca393868d913a7787e048e58676e4622.yaml/MD5E-s45045--ca393868d913a7787e048e58676e4622.yaml
+_command_array:
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0001' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0001'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0002' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0002'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0003' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0003'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0004' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0004'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0005' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0005'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0006' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0006'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0007' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0007'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0008' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0008'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0009' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0009'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0010' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0010'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0011' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0011'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0012' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0012'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0013' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0013'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0014' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0014'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0015' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0015'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0016' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0016'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0017' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0017'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0018' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0018'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0019' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0019'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0020' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0020'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0021' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0021'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0022' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0022'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0023' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0023'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0024' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0024'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0025' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0025'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0026' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0026'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0027' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0027'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0028' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0028'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0029' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0029'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0030' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0030'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0031' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0031'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0032' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0032'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0033' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0033'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0034' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0034'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0035' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0035'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0036' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0036'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0037' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0037'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0038' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0038'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0039' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0039'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0040' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0040'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0041' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0041'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0042' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0042'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0043' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0043'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0044' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0044'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0045' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0045'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0046' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0046'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0047' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0047'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0048' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0048'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0049' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0049'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0050' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0050'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0051' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0051'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0052' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0052'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0053' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0053'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0054' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0054'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0055' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0055'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0056' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0056'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0057' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0057'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0058' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0058'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0059' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0059'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0060' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0060'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0061' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0061'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0062' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0062'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0063' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0063'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0064' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0064'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0065' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0065'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0066' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0066'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0067' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0067'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0068' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0068'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0069' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0069'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0070' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0070'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0071' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0071'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0072' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0072'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0073' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0073'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0074' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0074'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0075' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0075'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0076' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0076'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0077' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0077'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0078' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0078'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0079' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0079'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0080' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0080'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0081' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0081'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0082' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0082'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0083' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0083'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0084' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0084'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0085' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0085'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0086' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0086'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0087' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0087'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0088' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0088'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0089' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0089'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0090' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0090'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0091' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0091'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0092' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0092'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0093' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0093'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0094' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0094'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0095' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0095'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0096' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0096'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0097' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0097'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0098' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0098'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0099' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0099'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+- code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '0100' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-0100'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+_container_command_str: code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+  sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '{p[sub]}' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-{p[sub]}'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+_dataset_id: adb04e29-bf86-4d45-80d2-50a253d050a6
+_extra_inputs: &id001
+- code/containers/images/bids/bids-mriqc--21.0.0rc2.sing
+_extra_inputs_array:
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+- *id001
+_head: 5a900a23731e9be745a24179663d99e434431695
+_inputs_array: []
+_jobid: 20220217-183627-1dd5
+_meta_directory: /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc/.reproman/jobs/local/20220217-183627-1dd5
+_meta_directory_rel: .reproman/jobs/local/20220217-183627-1dd5
+_num_subjobs: 100
+_outputs_array:
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+_reproman_version: 0.4.1
+_resolved_batch_parameters:
+- sub: '0001'
+- sub: '0002'
+- sub: '0003'
+- sub: '0004'
+- sub: '0005'
+- sub: '0006'
+- sub: '0007'
+- sub: 0008
+- sub: 0009
+- sub: '0010'
+- sub: '0011'
+- sub: '0012'
+- sub: '0013'
+- sub: '0014'
+- sub: '0015'
+- sub: '0016'
+- sub: '0017'
+- sub: 0018
+- sub: 0019
+- sub: '0020'
+- sub: '0021'
+- sub: '0022'
+- sub: '0023'
+- sub: '0024'
+- sub: '0025'
+- sub: '0026'
+- sub: '0027'
+- sub: 0028
+- sub: 0029
+- sub: '0030'
+- sub: '0031'
+- sub: '0032'
+- sub: '0033'
+- sub: '0034'
+- sub: '0035'
+- sub: '0036'
+- sub: '0037'
+- sub: 0038
+- sub: 0039
+- sub: '0040'
+- sub: '0041'
+- sub: '0042'
+- sub: '0043'
+- sub: '0044'
+- sub: '0045'
+- sub: '0046'
+- sub: '0047'
+- sub: 0048
+- sub: 0049
+- sub: '0050'
+- sub: '0051'
+- sub: '0052'
+- sub: '0053'
+- sub: '0054'
+- sub: '0055'
+- sub: '0056'
+- sub: '0057'
+- sub: 0058
+- sub: 0059
+- sub: '0060'
+- sub: '0061'
+- sub: '0062'
+- sub: '0063'
+- sub: '0064'
+- sub: '0065'
+- sub: '0066'
+- sub: '0067'
+- sub: 0068
+- sub: 0069
+- sub: '0070'
+- sub: '0071'
+- sub: '0072'
+- sub: '0073'
+- sub: '0074'
+- sub: '0075'
+- sub: '0076'
+- sub: '0077'
+- sub: 0078
+- sub: 0079
+- sub: 0080
+- sub: 0081
+- sub: 0082
+- sub: 0083
+- sub: 0084
+- sub: 0085
+- sub: 0086
+- sub: 0087
+- sub: 0088
+- sub: 0089
+- sub: 0090
+- sub: 0091
+- sub: 0092
+- sub: 0093
+- sub: 0094
+- sub: 0095
+- sub: 0096
+- sub: 0097
+- sub: 0098
+- sub: 0099
+- sub: '0100'
+_resolved_command_str: sourcedata/raw /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+  participant --participant-label '{p[sub]}' -w '/scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-{p[sub]}'
+  -vv --nprocs 11 --ants-nthreads 8 --verbose-reports --dsname ds003097 --ica --mem_gb
+  30
+_spec_version: '1.0'
+_submission_id: null
+batch_parameters:
+- sub=0001,0002,0003,0004,0005,0006,0007,0008,0009,0010,0011,0012,0013,0014,0015,0016,0017,0018,0019,0020,0021,0022,0023,0024,0025,0026,0027,0028,0029,0030,0031,0032,0033,0034,0035,0036,0037,0038,0039,0040,0041,0042,0043,0044,0045,0046,0047,0048,0049,0050,0051,0052,0053,0054,0055,0056,0057,0058,0059,0060,0061,0062,0063,0064,0065,0066,0067,0068,0069,0070,0071,0072,0073,0074,0075,0076,0077,0078,0079,0080,0081,0082,0083,0084,0085,0086,0087,0088,0089,0090,0091,0092,0093,0094,0095,0096,0097,0098,0099,0100
+command:
+- sourcedata/raw
+- /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+- participant
+- --participant-label
+- '{p[sub]}'
+- -w
+- /scratch1/03201/jbwexler/work_dir/mriqc//ds003097_sub-{p[sub]}
+- -vv
+- --nprocs
+- '11'
+- --ants-nthreads
+- '8'
+- --verbose-reports
+- --dsname
+- ds003097
+- --ica
+- --mem_gb
+- '30'
+container: code/containers/bids-mriqc
+job_name: ds003097-mriqc
+killjob_factors: .85,.15
+launcher: 'true'
+local_directory: /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
+mail_type: END
+mail_user: jbwexler@tutanota.com
+num_nodes: '20'
+num_processes: '100'
+orchestrator: datalad-no-remote
+outputs:
+- .
+queue: normal
+resource_id: bc1235e8-b28c-11eb-bce1-e4434b618f52
+resource_name: local
+root_directory: /home1/03201/jbwexler/.reproman/run-root
+submitter: slurm
+walltime: '8:00:00'
+working_directory: /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003097-mriqc
